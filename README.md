@@ -83,8 +83,6 @@ In alternativa, in `psql`:
 
 ## Query e viste
 
-Lo script `Query-e-Viste-Gruppo-7-Canale-IZ.sql` include query per:
-
 - Calcolare valutazioni minime, massime e medie per un determinato aspect
 - Identificare i B&B con le migliori valutazioni
 - Analizzare relazioni tra clienti e proprietari
@@ -93,8 +91,6 @@ Lo script `Query-e-Viste-Gruppo-7-Canale-IZ.sql` include query per:
 - Calcolare la percentuale di gradimento dei B&B vicini a musei o chiese
 
 ## Trigger
-
-Lo script `Trigger-Gruppo-7-Canale-IZ.sql` implementa trigger PL/pgSQL per:
 
 - Verificare la cardinalità minima della relazione tra proprietari e B&B
 - Impedire che un cliente pubblichi una recensione per una struttura di cui è proprietario
